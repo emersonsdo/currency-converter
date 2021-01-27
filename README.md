@@ -1,4 +1,7 @@
-# hello-world
+# Currency Converter
+
+Primeiro projetinho com Vue, seu objetivo é consumir uma API e fornecer uma conversão entre
+diversas moedas de forma acurada.
 
 ## Project setup
 ```
